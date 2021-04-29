@@ -1,1 +1,19 @@
+class NewOS {
+        Print("starting up")
+}
 
+
+
+class Bootloader {
+             pass
+
+}
+
+
+class kernel {
+             pass
+}
+
+
+class networking {
+             pass

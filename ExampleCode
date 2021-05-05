@@ -17,12 +17,15 @@ class kernel {
                        }
               
               void keyboard(){
+                       pass
                        }
                        
               void pixel(){
+                       pass
                        }
                        
               void fork(){
+                       pass
                        }
 }
 

@@ -23,12 +23,6 @@ class kernel {
               void pixel(){
                        pass
                        }
-                       
-              void fork(){
-                       pass
-                       }
-}
-
 
 class networking {
              pass

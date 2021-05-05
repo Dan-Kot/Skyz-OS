@@ -11,10 +11,26 @@ class Bootloader {
 
 
 class kernel {
-             pass
+             
+             void mouse(){
+                       pass
+                       }
+              
+              void keyboard(){
+                       }
+                       
+              void pixel(){
+                       }
+                       
+              void fork(){
+                       }
 }
 
 
 class networking {
              pass
 } 
+
+class GUI {
+          pass
+}
